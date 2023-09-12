@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+ 🌱 I’m currently studying software engineering at the Technical University of Denmark
+
+ 
 <!--
 **madsvnielsen/madsvnielsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
