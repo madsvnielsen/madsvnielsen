@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- 🌱 I’m currently studying software engineering at the Technical University of Denmark
+ 🌱 Currently studying software engineering at the Technical University of Denmark
 
  
 <!--
